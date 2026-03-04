@@ -59,14 +59,6 @@ The project includes the following analysis workflow:
 
 ---
 
-## Example Visualization
-
-Below is a heatmap showing emergency call frequency by **hour of the day** and **day of the week**.
-
-![Emergency Calls Heatmap](images/heatmap_calls_by_hour_day.png)
-
----
-
 ## Repository Structure
 
 ```
